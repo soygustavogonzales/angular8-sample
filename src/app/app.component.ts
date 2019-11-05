@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myapp';
+  personas = [
+  {name:'peter'},{name:'salomon'},{name:'federer'}]
+
 }
